@@ -1,13 +1,4 @@
-#!/bin/bash
-/*
- *
- *  * File: 4-puts.c
- *
- *   * Auth: Brennan D Baraban <375@holbertonschool.com>
- *
- *    */
-
-
+@@ -0,0 +1,12 @@
 
 #include <stdio.h>
 
@@ -15,23 +6,19 @@
 
 /**
  *
- *  * main - Prints "Programming is like building a multilingual
+ *  * main - Entry point
  *
- *   *                puzzle, followed by a new line.
+ *   *
  *
- *    *
+ *    * Return: Always 0 (Success)
  *
- *     * Return: Always 0.
- *
- *      */
+ *     */
 
 int main(void)
 
 {
 
 		puts("\"Programming is like building a multilingual puzzle");
-
-
 
 			return (0);
 
